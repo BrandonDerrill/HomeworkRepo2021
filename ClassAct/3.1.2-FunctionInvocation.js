@@ -6,7 +6,7 @@ function myNumberFunction() {
   num = num * 14;
   console.log(num);
 }
-s
+
 // now, invoke the myNumberFunction function
 
 // print just the function of console.log (no invocation)
