@@ -1,0 +1,56 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background: whitesmoke;
+}
+h2{
+    text-align: center;
+text-decoration-color: seashell;
+
+}
+nav{
+    flex: 1;
+    text-align: right;
+    padding-top: %;
+
+}
+ul{
+    display: inline-block;
+    list-style-type: none;
+    text-align: right;
+}
+ul li{
+    display: inline-block;
+    margin-right: 20px;
+}
+a{
+    text-decoration:  none;
+    color: black;
+}
+p{
+    text-decoration:  none;
+    color: black;   
+
+}}
+#Logo {
+    margin: 0;
+    padding: 0;
+    justify-content: right;
+}
+.MainPic{
+    justify-content: center;
+}
+
+h3{
+text-align: center;
+text-decoration-color: salmon;
+}
+}
+
+
+
+
+
+
+
